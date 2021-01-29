@@ -1,0 +1,45 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Azad Ebrahimian
+
+2. What hostname did you deploy to?
+hw02.wumbo.casa
+
+3. What's the link to your repository on github with your code?
+https://github.com/azadebrahimian/WebDev_hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+1 tutorial for each, and a few youtube videos
+
+5. How comfortable do you feel with HTML and CSS now?
+A little more comfortable than before, but do not feel fluent yet
+
+6. How many JS tutorial exercises did you do?
+1 tutorial, and a few youtube videos
+
+7. How comfortable do you feel with JS now?
+Slightly comfortable
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+my main struggle with this assignment was getting the css to neaten
+the calculator, as well as figuring out how to properly implement the
+calculator's logic within the javascript (how to use the +/= button,
+how to keep track of the numbers used in each operation, etc).
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8

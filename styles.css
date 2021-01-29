@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+button {
+    width: 75px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.product {
+    width: 318px;
+    height: 80px;
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5px;
+    word-wrap: break-word;
+    word-break: break-all;
+    font-size: 35px;
+}
